@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="400" Width="400">
     <Grid>
-        <Path Fill="Red">
+        <Path Fill="Red" Stroke="Black">
             <Path.Data>
                 <CombinedGeometry GeometryCombineMode="Union">
                     <CombinedGeometry.Geometry1>
